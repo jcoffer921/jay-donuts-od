@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="oak-donuts-od:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/oak_donuts_od_jar</output-path>
+    <root id="archive" name="oak-donuts-od.jar">
+      <element id="module-output" name="oak-donuts-od" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
